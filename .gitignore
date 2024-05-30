@@ -19,4 +19,6 @@
 
 # Go workspace file
 go.work
-go.work.sum
+
+# Image data
+data/
